@@ -5,6 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/MF/MF_PSR.uasset",
+				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/MF/MF_Dirt.uasset",
+				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/MRZ_500_Practical_Stencil_Imperfection_dirt_18.uasset",
+				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/TC_Dirt.uasset",
+				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/TN_Dirt.uasset",
+				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/TORM_Dirt.uasset",
+				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/TC_BaseProps.uasset",
+				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/TN_BaseProps.uasset",
+				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/TORM_BaseProps.uasset",
+				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/Noise.uasset",
+				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Master_Props.uasset",
+				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Mi_test.uasset",
+				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Maps/EnciroMap.umap",
+				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/RGBAmask_Base.uasset",
 				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/Art/Materials/Master_Props.uasset",
 				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/Art/Materials/Mud_A/MF_Dirt.uasset",
 				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/Art/Materials/Mud_A/MF_Mud_1.uasset",
@@ -42,20 +56,7 @@
 				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/Art/Materials/Textures/TN_BaseProps.uasset",
 				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/Art/Materials/Textures/TORM_BaseProps.uasset",
 				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/Art/Materials/Textures/Noise.uasset",
-				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/MF/MF_PSR.uasset",
-				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/MF/MF_Dirt.uasset",
-				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/Art/Materials/MF/MF_PSR.uasset",
-				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/MRZ_500_Practical_Stencil_Imperfection_dirt_18.uasset",
-				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/TC_Dirt.uasset",
-				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/TN_Dirt.uasset",
-				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/TORM_Dirt.uasset",
-				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/TC_BaseProps.uasset",
-				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/TN_BaseProps.uasset",
-				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/TORM_BaseProps.uasset",
-				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Textures/Noise.uasset",
-				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Master_Props.uasset",
-				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Material/Mi_test.uasset",
-				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/HaloProject/Maps/EnciroMap.umap"
+				"C:/Users/Bastien CHALANCON/Bureau/HaloProject/Project/HaloProject/Content/Art/Materials/MF/MF_PSR.uasset"
 			]
 		}
 	]
